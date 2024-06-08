@@ -22,3 +22,8 @@ LARGE
 XLOOKUP
 INDEX / MATCH
 FILTER
+
+![Sales by geophraphy and category](https://github.com/prathibha1996/Excel-Project/assets/170945209/a2505187-6d5d-4377-8958-e2ae27a72804)
+![Customer Sales](https://github.com/prathibha1996/Excel-Project/assets/170945209/e968c857-3bb6-4ffc-9deb-eca33831945e)
+
+
